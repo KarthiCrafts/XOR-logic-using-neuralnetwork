@@ -33,9 +33,6 @@ The neural network architecture consists of:
 ## Files
 
 - `main.py`: The main script containing the neural network implementation and training process.
-- `data.py`: Contains the dataset for XOR logic.
-- `neural_network.py`: Defines the neural network class and its methods.
-- `activation_functions.py`: Contains activation functions used in the neural network.
 
 ## Contributing
 
