@@ -38,4 +38,7 @@ The neural network architecture consists of:
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit pull requests.
 
+ ## Contact
+
+For questions or suggestions, feel free to contact [karthi2019.qq@gmail.com]
 
