@@ -14,7 +14,7 @@ This project demonstrates how to create a neural network that can learn the XOR 
 
 3. Install the required dependencies: like python libraries
 
-4. 
+ 
 ## Usage
 
 1. Open the `main.py` file in your preferred Python IDE or text editor.
